@@ -8,7 +8,7 @@ set -e
 # We alter it, rebuild it, and then move the built assets into /fauxton
 #
 
-GIT_HASH=b940979
+GIT_HASH=ce76aac
 
 FAUXTON_SRC=$(pwd)/fauxton-src
 REPLACE=$(pwd)/node_modules/.bin/replace
